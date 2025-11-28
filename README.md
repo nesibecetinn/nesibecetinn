@@ -7,7 +7,6 @@
 🌱 Currently learning **.NET 9**, **Angular Standalone Components**, and **Clean Architecture**  
 🧠 Passionate about writing **maintainable and scalable code**  
 📫 Reach me at **nesibe3cetin@gmail.com**  
-🌐 Portfolio: [nesibe-cetin.netlify.app](https://nesibe-cetin.netlify.app)
 
 ---
 
